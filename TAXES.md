@@ -2,6 +2,7 @@
 
 1. Prove you have health insurance.
 2. Account for all of your non-taxed online orders (i.e. every Amazon.com order).
+3. and more ...
 
 ## Health Insurance
 
