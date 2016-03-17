@@ -5,6 +5,8 @@
 
 ## Health Insurance
 
+Indicate whether you meet the minimum insurance requirements or are exempt or must pay a fee.
+
 ## Connecticut Use Tax
 
 How to calculate your `use tax liability`:
